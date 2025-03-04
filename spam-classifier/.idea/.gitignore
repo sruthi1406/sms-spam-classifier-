@@ -1,0 +1,8 @@
+# Default ignored files
+/../../spam-classifier /.idea/shelf/
+/../../spam-classifier /.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../spam-classifier /.idea/httpRequests/
+# Datasource local storage ignored files
+/../../spam-classifier /.idea/dataSources/
+/../../spam-classifier /.idea/dataSources.local.xml
