@@ -11,9 +11,7 @@ The **SMS Spam Classifier** is a machine learning-based project that automatical
 - **Web Interface**: A Streamlit-based UI for easy interaction.
 
 ## Dataset
-The project uses the **SMS Spam Collection Dataset**, a public dataset containing 5,574 SMS messages labeled as spam or ham.
-
-Dataset Source: [UCI Machine Learning Repository](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
+The project uses the **SMS Spam Collection Dataset**
 
 ## Installation
 ### Prerequisites
